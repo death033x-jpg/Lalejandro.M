@@ -18,7 +18,7 @@
 
 ### 3. Proyectos
 
-- **[AEROSHIELD]:**- **AeroShield (Estructuras de Datos):** [Ver repositorio](https://github.com/death033x-jpg/AEROSHIELD) — Aplicación en Java con interfaz gráfica que modela una red aeroportuaria como un grafo dirigido, con recorridos y detección de dispositivos sospechosos.
+- **[AEROSHIELD]:** -**AeroShield (Estructuras de Datos):** [Ver repositorio](https://github.com/death033x-jpg/AEROSHIELDs) — Aplicación en Java con interfaz gráfica que modela una red aeroportuaria como un grafo dirigido, con recorridos y detección de dispositivos sospechosos.
 
 ### 4. Contacto
 
