@@ -25,4 +25,5 @@
 - **GitHub:** [github.com/death033x-jpg](https://github.com/death033x-jpg)
 - **LinkedIn:** Luis Montenegro [www.linkedin.com/in/luis-montenegro-604038436]
 - **Correo:** luismontenegro0330!@utp.ac.pa
-- **CV:** Currículum Estudiante UTP CV.pdf 
+- **CV:** [Currículum Estudiante UTP CV.pdf 
+](https://github.com/death033x-jpg/Lalejandro.M/blob/c235a9c1e460082cdc13511a3d48bf3cecf4a9fc/Curri%CC%81culum%20Estudiante%20UTP%20CV.pdf)
