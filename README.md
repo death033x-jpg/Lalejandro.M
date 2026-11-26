@@ -23,5 +23,6 @@
 ### 4. Contacto
 
 - **GitHub:** [github.com/death033x-jpg](https://github.com/death033x-jpg)
-- **LinkedIn:** [www.linkedin.com/in/luis-montenegro-604038436]
+- **LinkedIn:** Luis Montenegro [www.linkedin.com/in/luis-montenegro-604038436]
 - **Correo:** luismontenegro0330!@utp.ac.pa
+- CV
